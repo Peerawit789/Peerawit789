@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Peerawit Pasamlee 👋
 
-<!--
-**Peerawit789/Peerawit789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in **Network Engineering, Routing & Switching, and Network Infrastructure**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student at Mae Fah Luang University
+- 🌐 Interested in Network Engineering and Network Infrastructure
+- 🔧 Learning Routing, Switching, TCP/IP, Subnetting, and Network Troubleshooting
+- 📡 Working on AI-Based Campus Network Behavior Analysis
+
+## Technical Skills
+
+- Networking: TCP/IP, Subnetting, Routing & Switching
+- Network Simulation: GNS3, Open vSwitch
+- Monitoring: Prometheus, Grafana
+- Tools: Docker, Git & GitHub
+- Programming: Python
+
+## Projects
+
+### AI-Based Campus Network Behavior Analysis
+Network behavior analysis system using NetFlow and Isolation Forest for anomaly detection.
+
+**Technologies:** GNS3, Open vSwitch, NetFlow, Docker, Prometheus, Grafana, Isolation Forest
+
+### Asset Borrowing System
+Mobile application developed using Flutter & Dart with login, registration, form validation, and navigation.
+
+**Technologies:** Flutter, Dart, Git & GitHub
+
+## Currently Learning
+
+- Network Administration
+- Network Security
+- Advanced Routing & Switching
